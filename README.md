@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Wangata
-- 👀 I’m interested in ... Learning Code
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ... any project that i will learn fro
+- 👋 Hi, I’m @Martin Wangata, software developer
+- 👀 I’m interested in IOS Development
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on ... any project that i will learn from
 - 📫 How to reach me ... martinwangata@gmail.com
 
 <!---
