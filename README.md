@@ -18,7 +18,7 @@ About me:
 
 Hobbies:
 🎸   I enjoy playing my guitar.
-🎮   I love playing games.
+🎮   I love playing games and being outdoors.
 ✍️   I love reading and writing.
 
 Languages and Tools:
