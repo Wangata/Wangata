@@ -7,7 +7,7 @@ I love building real-time applications but I mostly work on and experiment with 
 
 I am on a journey to make Software Development accessible to everyone in my locale and abroad and I would love to share that journey with you.
 
-About me:
+[About me]:
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on ... any project that i will learn from
 
