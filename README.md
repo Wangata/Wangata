@@ -1,7 +1,7 @@
 Great to Have You Here mate!
 
 Am Martin Wangata, I'm a Junior Software Developer 💻 at  CardEqual and FracoGroup 
-I am self-taught 🚀 and I love talking & writing about Web Development , & Software Development in general.
+I am self-taught and I love learning something new each day, & contributing in open source projects.
 
 I love building real-time applications but I mostly work on and experiment with APIs of all sort and have the love to build APIs and deploy them.
 
