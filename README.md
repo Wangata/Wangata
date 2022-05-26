@@ -18,4 +18,4 @@ Hobbies:
 
 Languages and Tools:
 
-javascript|python|csharp|java|django|angular|ReactJS|SQL|git terminal
+javascript|python|csharp|java|django|angular|ReactJS|SQL|[git terminal ](https://git-scm.com/images/logo@2x.png)
