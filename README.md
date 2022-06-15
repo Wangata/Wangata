@@ -7,13 +7,12 @@ I am on a journey to make Software Development accessible to everyone in my loca
 
 About me:
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on ... any project that i will learn from
+- 💞️ I’m looking to collaborate on ... any project that i will learn from.
 
 Hobbies:
-🎸   I enjoy playing my guitar.
-🎮   I love playing games and being outdoors.
-✍️   I love reading and writing.
+🎮   I enjoy playing games and being outdoors.
+✍️   I enjoy reading 
 
 Languages and Tools:
 
-javascript|python|csharp|java|django|angular|ReactJS|
+HTML|CSS|javascript|ReactJS|MySQL Database
