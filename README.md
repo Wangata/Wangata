@@ -8,10 +8,9 @@ Great to Have You Here mate! I'm a Junior Software Developer 💻 at CardEqualI 
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [Wangata](http://wangata.netlify.app/)
-* ✉️  You can contact me at [martinwangata@outlook.com](mailto: martinwangata@outlook.com)
+* ✉️  You can contact me at [martinwangata@outlook.com]
 * 🧠  I'm learning ReactJS and Cloud Computing
 * 🤝  I'm open to collaborating on Any open source projects that I could learn from
-* ⚡  I enjoy playing games and being outdoors.
 
 ### Skills
 
