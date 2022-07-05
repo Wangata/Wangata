@@ -4,7 +4,7 @@ Hi 👋 My name is Martin Wangata
 Software Developer
 ------------------
 
-Great to Have You Here mate! I'm a Junior Software Developer 💻 at CardEqualI am self-taught, love learning something new each day, & contributing to open source projects. I am on a journey to make Software Development accessible to everyone in my locale and abroad and I would love to share that journey with you.
+Great to Have You Here mate! I'm a Junior Software Developer 💻 at CardEqual, I am self-taught, I commit to learn something new each day & contributing to open source projects. I am on a journey to make Software Development accessible to everyone in my locale and abroad and I would love to share that journey with you.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [Wangata](http://wangata.netlify.app/)
