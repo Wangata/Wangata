@@ -10,7 +10,7 @@ I'm a Junior Software Developer 💻 at CardEqual, I am self-taught, I commit to
 * 🌍  I'm based in Nairobi, Kenya.
 * 🖥️  See my portfolio at [Wangata](http://wangata.netlify.app/).
 * ✉️  You can contact me at martinwangata@gmail.com
-* 🧠  I'm learning ReactJS and Cloud Computing.
+* 🧠  I'm currently learning ReactJS and Cloud Computing.
 * 🤝  I'm always open to collaborating to any open source projects that I could learn and gradually improve my skills.
 
 ### Skills
