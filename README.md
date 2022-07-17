@@ -1,7 +1,7 @@
 Hi 👋 My name is Martin Wangata
 ===============================
 
-Software Developer
+I am a Software Developer
 ------------------
 
 Great to Have You Here mate!
